@@ -1,4 +1,4 @@
-# Risky Trading Strategy Bot
+# Trading Bot
 
 ### Description: 
 This was a Groupt assignment done for CFM 101, where teams competed to create a portfolio of stocks which would maximise their risk. A CSV file with randomely picked stocks tickers 
