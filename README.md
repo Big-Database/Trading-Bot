@@ -10,4 +10,3 @@ Next we found the standard deviation, the top 10 most correlated stocks for each
 highest overall correlation, that were also extremely volatile and had showed promising price movements. We used the Monte Carlo simulation to optmise each stock weighting within 
 the portfolio to maximise overall volatility. 
 
-### Download Instructions: 
