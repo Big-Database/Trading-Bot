@@ -1,7 +1,7 @@
 # Trading Bot
 
 ### Description: 
-This was a Groupt assignment done for CFM 101, where teams competed to create a portfolio of stocks which would maximise their risk. A CSV file with randomely picked stocks tickers 
+This was a Group assignment done for CFM 101, where teams competed to create a portfolio of stocks which would maximise their risk. A CSV file with randomely picked stocks tickers 
 would be given to each team. From this each team creates the most volatile strategy to pick sstocks for their portfolio.
 This was then measured over a 5 day period, where my team and I won 3rd place. 
 
